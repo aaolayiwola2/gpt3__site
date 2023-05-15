@@ -1,3 +1,29 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 /* eslint-disable no-unused-vars */
 // @ts-ignore
 import React from "react";
@@ -51,5 +77,3 @@ const Footer = () => (
     </div>
 )
 
-
-export default Footer ; 
