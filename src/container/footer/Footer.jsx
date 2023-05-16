@@ -70,7 +70,7 @@ const Footer = () => (
                     <p className="my-[0.5rem] mx-0 text-xs leading-[15px] font-family text-white">info@payme.net</p>
                 </div>
             </div>
-
+              
             <div className="mt-8 text-center leading-[15px] text-white ">
                 <p className="font=family text-xs leading-[15px] text-white">@2021 GPT-3. All rights reserved.</p>
             </div>
